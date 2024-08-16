@@ -1,0 +1,60 @@
+
+.notifications {
+    width: 600px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 20px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: #ffffff;
+    border-bottom: 1px solid #eee;
+  }
+  
+  
+  .head {
+    margin: 2px;
+    padding: 2px 7px;
+  }
+  .mark-read-button {
+    color: rgb(134, 133, 133);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    background-color:#ffffff ;
+  }
+
+  .mark-read-button:hover {
+    color:#007bff;
+  }
+  .notification-pill {
+    background: #033c79;
+    color: white;
+    border-radius: 30%;
+    padding: 4px 8px;
+    margin-left: 10px;
+    font-size: 0.8em;
+  }
+  
+
+  .App {
+    padding: 20px;
+    background-color: #f0f2f5;
+  }
+
+
+
+
+
+
